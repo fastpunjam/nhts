@@ -1,4 +1,4 @@
-https://travis-ci.org/fastpunjam/nhts.svg?branch=master
+![Travis CI Status](https://travis-ci.org/fastpunjam/nhts.svg?branch=master)
 
 # nhts
 Node HTTP Test Server - A tiny node HTTP server to help test HTTP clients' timeout logic.
