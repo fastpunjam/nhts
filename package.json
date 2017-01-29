@@ -1,0 +1,23 @@
+{
+  "name": "nhts",
+  "version": "1.0.0",
+  "description": "Node HTTP test server",
+  "main": "nhts.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastpunjam/nhts.git"
+  },
+  "keywords": [
+    "node",
+    "http"
+  ],
+  "author": "James Punnett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fastpunjam/nhts/issues"
+  },
+  "homepage": "https://github.com/fastpunjam/nhts#readme"
+}
